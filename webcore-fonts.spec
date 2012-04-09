@@ -33,7 +33,7 @@ Webdings, Wingdings, Wingding 2, Wingding 3.
 %__cp vista/* %{buildroot}%{_datadir}/fonts/webcore
 
 %clean
-rm -rf %{buildroot}
+%__rm -rf %{buildroot}
 
 %post
 {
