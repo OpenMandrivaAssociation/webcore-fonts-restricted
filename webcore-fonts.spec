@@ -1,7 +1,7 @@
 Name:		webcore-fonts
 Summary:	Collection of minimum popular high quality TrueType fonts
 Version:	3.0
-Release:	3
+Release:	4
 License:	Microsoft
 Group:		System/Fonts/True type
 Source:		http://avi.alkalay.net/software/webcore-fonts/%{name}-%{version}.tar.gz
