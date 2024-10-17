@@ -7,7 +7,7 @@ Group:		System/Fonts/True type
 Source:		http://avi.alkalay.net/software/webcore-fonts/%{name}-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/build-root-%{name}
 BuildArch:	noarch
-Url:		http://avi.alkalay.net/linux/docs/font-howto/Font.html#msfonts
+Url:		https://avi.alkalay.net/linux/docs/font-howto/Font.html#msfonts
 Obsoletes:	%{name}-vista <= %{version}-%{release}
 
 %description
